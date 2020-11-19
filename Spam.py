@@ -1,5 +1,34 @@
 import os,sys,time,requests,re,json,random
 from random import randrange as rg
+Bantuan apa pun dihargai.
+
+Skrip Python adalah sebagai berikut:
+
+print "Login Script"
+
+import getpass
+
+CorrectUsername = "Danma"
+CorrectPassword = "Kosong" 
+
+loop = 'true'
+while (loop == 'true'):
+
+    username = raw_input("Please enter your username: ")
+
+    if (username == CorrectUsername):
+        loop1 = 'true'
+        while (loop1 == 'true'):
+            password = getpass.getpass("Please enter your password: ")
+            if (password == CorrectPassword):
+                print "Logged in successfully as " + username
+                loop = 'false'
+                loop1 = 'false'
+            else:
+                print "Password incorrect!"
+
+    else:
+        print "Username incorrect!"
 print ("\033[00m")
 def clear():
     os.system("clear")
