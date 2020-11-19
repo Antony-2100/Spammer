@@ -23,7 +23,9 @@ Github   : github.com/KamZ0
 Whatsapp : +6289606019836
 Team     : Eagle Reporting Commision
 Donate   : DANA 082375069658
-Note     : Jangan jadi youtubers sampah,karna hasil menjiplak karya orang lain,THANK'S TELAH MENGGUNAKAN SCRIPT SAYA,GUNAKAN DENGAN BIJAK
+Note     : Jangan jadi youtubers sampah
+karna hasil menjiplak karya orang lain
+THANK'S TELAH MENGGUNAKAN SCRIPT SAYA,GUNAKAN DENGAN BIJAK
 ==========================================''')
 def kata(s):
     for c in s + "\n":
