@@ -16,7 +16,6 @@ def baner():
 ╠╩╗├┬┘│ │ │ ├─┤│  ╚═╗├─┘├─┤││││││├┤ ├┬┘
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
-\t------------
 \nCreator  : Danma
 Facebook : Danma
 Github   : github.com/KamZ0
