@@ -23,8 +23,9 @@ Github   : github.com/KamZ0
 Whatsapp : +6289606019836
 Team     : Eagle Reporting Commision
 Donate   : DANA 082375069658
-Note     : Jangan jadi youtubers sampah
-karna hasil menjiplak karya orang lain
+#BEBAS GUNAKAN +62 ATAU 08
+Note     : JANGAN  JADI  YOUTUBERS SAMPAH 
+KARENA HASIL  MENJIPLAK  KARYA  ORANG  LAIN 
 THANK'S TELAH MENGGUNAKAN SCRIPT SAYA
 GUNAKAN DENGAN BIJAK Oke :) 
 ==========================================''')
