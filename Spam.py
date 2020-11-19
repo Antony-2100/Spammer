@@ -1,30 +1,5 @@
 import os,sys,time,requests,re,json,random
 from random import randrange as rg
-print "Login Script"
-
-import getpass
-
-CorrectUsername = "Danma"
-CorrectPassword = "Kosong" 
-
-loop = 'true'
-while (loop == 'true'):
-
-    username = raw_input("Please enter your username: ")
-
-    if (username == CorrectUsername):
-        loop1 = 'true'
-        while (loop1 == 'true'):
-            password = getpass.getpass("Please enter your password: ")
-            if (password == CorrectPassword):
-                print "Logged in successfully as " + username
-                loop = 'false'
-                loop1 = 'false'
-            else:
-                print "Password incorrect!"
-
-    else:
-        print "Username incorrect!"
 print ("\033[00m")
 def clear():
     os.system("clear")
@@ -47,6 +22,8 @@ Facebook : Danma
 Github   : github.com/KamZ0
 Whatsapp : +6289606019836
 Team     : Eagle Reporting Commision
+Donate   : DANA 082375069658
+Note     : Jangan jadi youtubers sampah,karna hasil menjiplak karya orang lain,THANK'S TELAH MENGGUNAKAN SCRIPT SAYA,GUNAKAN DENGAN BIJAK
 ==========================================''')
 def kata(s):
     for c in s + "\n":
