@@ -16,10 +16,11 @@ def baner():
 ╠╩╗├┬┘│ │ │ ├─┤│  ╚═╗├─┘├─┤││││││├┤ ├┬┘
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 ==========================================
-\nCreator  : Danma
+\nCreator  : Bayu Putra Tama
 Facebook : Danma
 Github   : github.com/KamZ0
 Whatsapp : +6289606019836
+Team     : Eagle Reporting Commision
 ==========================================''')
 def kata(s):
     for c in s + "\n":
