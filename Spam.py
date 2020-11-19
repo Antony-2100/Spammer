@@ -1,9 +1,5 @@
 import os,sys,time,requests,re,json,random
 from random import randrange as rg
-Bantuan apa pun dihargai.
-
-Skrip Python adalah sebagai berikut:
-
 print "Login Script"
 
 import getpass
