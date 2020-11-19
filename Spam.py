@@ -25,7 +25,8 @@ Team     : Eagle Reporting Commision
 Donate   : DANA 082375069658
 Note     : Jangan jadi youtubers sampah
 karna hasil menjiplak karya orang lain
-THANK'S TELAH MENGGUNAKAN SCRIPT SAYA,GUNAKAN DENGAN BIJAK
+THANK'S TELAH MENGGUNAKAN SCRIPT SAYA
+GUNAKAN DENGAN BIJAK Oke :) 
 ==========================================''')
 def kata(s):
     for c in s + "\n":
