@@ -1,4 +1,8 @@
 import os,sys,time,requests,re,json,random
+import py_compile 
+
+script = "C: \\ temp \\ myscript.py" 
+py_compile.compile (script)
 from random import randrange as rg
 print ("\033[00m")
 def clear():
