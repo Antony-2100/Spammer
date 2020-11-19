@@ -17,9 +17,10 @@ def baner():
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
 \t------------
-\nCreator: Danma
+\nCreator  : Danma
 Facebook : Danma
-Github : github.com/KamZ0
+Github   : github.com/KamZ0
+Whatsapp : +6289606019836
 ==========================================''')
 def kata(s):
     for c in s + "\n":
