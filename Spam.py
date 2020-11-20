@@ -17,17 +17,15 @@ def baner():
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
 ==========================================
-\nCreator  : Bayu Putra Tama
+\nAuthor : Bayu Putra Tama
 Facebook : Danma
 Github   : github.com/KamZ0
 Whatsapp : +6289606019836
 Team     : Eagle Reporting Commision
 Donate   : DANA 082375069658
-#BEBAS GUNAKAN +62 ATAU 08
-Note     : JANGAN  JADI  YOUTUBERS SAMPAH 
-KARENA HASIL  MENJIPLAK  KARYA  ORANG  LAIN 
-THANK'S TELAH MENGGUNAKAN SCRIPT SAYA
-GUNAKAN DENGAN BIJAK Oke :) 
+Gunakan  : +62 Atau 08xxx
+
+
 ==========================================''')
 def kata(s):
     for c in s + "\n":
